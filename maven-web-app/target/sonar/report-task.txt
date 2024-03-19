@@ -1,0 +1,6 @@
+projectKey=in.hcl:maven-web-app
+serverUrl=http://52.201.184.114:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://52.201.184.114:9000/dashboard?id=in.hcl%3Amaven-web-app
+ceTaskId=AY5WlLC4yseApr4bKZc6
+ceTaskUrl=http://52.201.184.114:9000/api/ce/task?id=AY5WlLC4yseApr4bKZc6
